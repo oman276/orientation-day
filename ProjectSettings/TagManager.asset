@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Cabinet
+  - Item
+  - Barrel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Player
+  - Pickups
+  - Decorations
+  - Interactibles
+  - Door
+  - Wood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3085457717
+    locked: 0
+  - name: Interactibles
+    uniqueID: 774928681
+    locked: 0
+  - name: BackWalls
+    uniqueID: 2510165789
+    locked: 0
+  - name: Doors
+    uniqueID: 1849917521
+    locked: 0
+  - name: Walls
+    uniqueID: 218643241
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Line
+    uniqueID: 1384085297
+    locked: 0
+  - name: Cabinet
+    uniqueID: 867124675
+    locked: 0
+  - name: Enemy
+    uniqueID: 3903071485
+    locked: 0
+  - name: Player
+    uniqueID: 86095447
+    locked: 0
+  - name: Wood
+    uniqueID: 900995939
+    locked: 0
+  - name: House
+    uniqueID: 3490855521
+    locked: 0
+  - name: Cobweb
+    uniqueID: 401668027
+    locked: 0
+  - name: Back Wall Blocker
+    uniqueID: 3121951369
+    locked: 0
+  - name: Wall Tops
+    uniqueID: 974328323
+    locked: 0
+  - name: Lights
+    uniqueID: 2060618805
+    locked: 0
+  - name: Bullet Effect
+    uniqueID: 2263683927
+    locked: 0
+  - name: Drawers
+    uniqueID: 2335202427
+    locked: 0
+  - name: UI
+    uniqueID: 803604317
+    locked: 0
+  - name: In Drawers
+    uniqueID: 3442398149
+    locked: 0
+  - name: Lore
+    uniqueID: 2063598817
+    locked: 0
